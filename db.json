@@ -1,77 +1,58 @@
-// {
-//     "cursos": [
-//       { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
-//       { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" },
-//       { "id": 3, "titulo": "Entendendo o ES7/ES8", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
-//       { "id": 4, "titulo": "React 16 Definitivo", "url": "https://www.udemy.com/react-16/" }
-//     ],
-//     "alunos": [
-//       { "id": 1, "nome": "Marcela da Silva", "curso": 1 },
-//       { "id": 2, "nome": "José Luiz Felipe", "curso": 2 },
-//       { "id": 3, "nome": "Paulo Rogério", "curso": 3 },
-//       { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
-//       { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
-//     ],
-//     "empresa": {
-//       "nome": "Code Prestige"
-//     }
-// }
-
 {
     "tematicas": [
         {
-            d: {
-            results: [
-            {
-            Title: "Defesa da probidade",
-            Ordem: 2
-            },
-            {
-            Title: "Patrimônio e meio ambiente",
-            Ordem: 3
-            },
-            {
-            Title: "Recuperação de ativos",
-            Ordem: 1
-            },
-            {
-            Title: "Servidores civis",
-            Ordem: null
-            },
-            {
-            Title: "Militares",
-            Ordem: null
-            },
-            {
-            Title: "Direitos trabalhistas",
-            Ordem: null
-            },
-            {
-            Title: "Negociação",
-            Ordem: null
-            },
-            {
-            Title: "Serviço público e residual",
-            Ordem: null
-            },
-            {
-            Title: "Saúde pública",
-            Ordem: null
-            },
-            {
-            Title: "Juizados especiais federais",
-            Ordem: null
-            },
-            {
-            Title: "Internacional",
-            Ordem: null
-            },
-            {
-            Title: "Cálculos e Perícias",
-            Ordem: null
+            "d": {
+            "results": [
+                    {
+                    "Title": "Defesa da probidade",
+                    "Ordem": 2
+                    },
+                    {
+                    "Title": "Patrimônio e meio ambiente",
+                    "Ordem": 3
+                    },
+                    {
+                    "Title": "Recuperação de ativos",
+                    "Ordem": 1
+                    },
+                    {
+                    "Title": "Servidores civis",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Militares",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Direitos trabalhistas",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Negociação",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Serviço público e residual",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Saúde pública",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Juizados especiais federais",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Internacional",
+                    "Ordem": null
+                    },
+                    {
+                    "Title": "Cálculos e Perícias",
+                    "Ordem": null
+                    }
+                ]
             }
-            ]
-            }
-            }
+        }
     ]
 }
