@@ -107,6 +107,10 @@
             ]
         }
     },
+    "grupoGabinete": {
+        "sim": true,
+        "nao": false
+    },
     "conteudoPauta": {    
         "d":{
             "results":[
