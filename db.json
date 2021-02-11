@@ -1,58 +1,283 @@
 {
-    "tematicas": [
+    "tematicas": 
         {
             "d": {
-            "results": [
+                "results":[
                     {
-                    "Title": "Defesa da probidade",
-                    "Ordem": 2
+                        "Title":"Defesa da probidade",
+                        "Ordem":2
                     },
                     {
-                    "Title": "Patrimônio e meio ambiente",
-                    "Ordem": 3
+                        "Title":"Patrimônio e meio ambiente",
+                        "Ordem":3
                     },
                     {
-                    "Title": "Recuperação de ativos",
-                    "Ordem": 1
+                        "Title":"Recuperação de ativos",
+                        "Ordem":1
                     },
                     {
-                    "Title": "Servidores civis",
-                    "Ordem": null
+                        "Title":"Servidores civis",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Militares",
-                    "Ordem": null
+                        "Title":"Militares",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Direitos trabalhistas",
-                    "Ordem": null
+                        "Title":"Direitos trabalhistas",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Negociação",
-                    "Ordem": null
+                        "Title":"Negociação",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Serviço público e residual",
-                    "Ordem": null
+                        "Title":"Serviço público e residual",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Saúde pública",
-                    "Ordem": null
+                        "Title":"Saúde pública",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Juizados especiais federais",
-                    "Ordem": null
+                        "Title":"Juizados especiais federais",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Internacional",
-                    "Ordem": null
+                        "Title":"Internacional",
+                        "Ordem":null
                     },
                     {
-                    "Title": "Cálculos e Perícias",
-                    "Ordem": null
+                        "Title":"Cálculos e Perícias",
+                        "Ordem":null
                     }
                 ]
             }
+        },
+   
+    "unidadesPgu":
+    {
+        "d":{
+            "results":[
+                {
+                    "Title":"PRU 1"
+                },
+                {
+                    "Title":"PRU 2"
+                },
+                {
+                    "Title":"PRU 3"
+                },
+                {
+                    "Title":"PRU 4"
+                },
+                {
+                    "Title":"PRU 5"
+                },
+                {
+                    "Title":"DCP"
+                },
+                {
+                    "Title":"DCM"
+                },
+                {
+                    "Title":"DEE"
+                },
+                {
+                    "Title":"DAI"
+                },
+                {
+                    "Title":"DPP"
+                },
+                {
+                    "Title":"DSP"
+                },
+                {
+                    "Title":"DTB"
+                },
+                {
+                    "Title":"GABINETE"
+                },
+                {
+                    "Title":"CGEST"
+                },
+                {
+                    "Title":"CGJUD"
+                }
+            ]
         }
-    ]
+    },
+    "conteudoPauta": {    
+        "d":{
+            "results":[
+                {
+                    "Tematica":{
+                        "Title":"Militares",
+                        "Ordem":9
+                    },
+                    "UnidadePgu":{
+                        "Title":"PRU 2"
+                    },
+                    "Id":1,
+                    "Title":"PRU2",
+                    "ComplianceAssetId":null,
+                    "justica":"TRF 5ª TURMA",
+                    "processo":"0003162-57.2016.4.02.5100",
+                    "objeto":"ACP ajuizada pela UNIÃO requerendo a condenação da ré em a ressarcir o erário pelo montante fixado por este egrégio Juízo correspondente ao volume de granito irregularmente extraído, acrescido de juros e correção monetária",
+                    "situacaoAtual":"Sentença IMPROCEDENTE. Apelação da UNIÃO incluída na pauta de julgamento do dia 10/02/2021",
+                    "estrategia":"Memoriais",
+                    "resultado":null,
+                    "consideracoes":null,
+                    "TematicaId":5,
+                    "UnidadePguId":2,
+                    "ID":1,
+                    "Modified":"2021-02-10T15:27:23Z",
+                    "Created":"2021-02-10T15:24:32Z",
+                    "AuthorId":23,
+                    "EditorId":23,
+                    "OData__UIVersionString":"1.0",
+                    "Attachments":false,
+                    "GUID":"ec64e09b-2077-499f-b217-2aae27090a37"
+                },
+                {
+                    "Tematica":{
+                        "Title":"Negociação",
+                        "Ordem":4
+                    },
+                    "UnidadePgu":{
+                        "Title":"PRU 1"
+                    },
+                    "Id":2,
+                    "Title":"PRU1",
+                    "ComplianceAssetId":null,
+                    "justica":"22ª VF/DF ",
+                    "processo":"1057868-35.2020.4.01.3400 ",
+                    "objeto":"AIA vinculada à Operação Greenfield, e que aborda a aquisição de ações da ITAUSA pela PETROS com favorecimento da Camargo Correa.  ",
+                    "situacaoAtual":"Intimação da União, PETROS  e Petrobras para manifestarem interesse no feito. ",
+                    "estrategia":"Processo identificado como relevante. Será dada ciência do caso à PGU para verificar se se seguirá o modo de atuação já utilizado nos demais feitos relativos à FT Greenfield. ",
+                    "resultado":null,
+                    "consideracoes":null,
+                    "TematicaId":7,
+                    "UnidadePguId":1,
+                    "ID":2
+                },
+                {
+                    "Tematica":{
+                        "Title":"Militares",
+                        "Ordem":9
+                    },
+                    "UnidadePgu":{
+                        "Title":"PRU 1"
+                    },
+                    "Id":3,
+                    "Title":"PRU1",
+                    "ComplianceAssetId":null,
+                    "justica":"2ª VF/AP ",
+                    "processo":"1001089-53.2021.4.01.3100 ",
+                    "objeto":"AIA proposta em face de Secretário de Saúde do Município de Serra do Navio e sua esposa, por terem descumprido o plano nacional de vacinação contra a COVID  e se valido do cargo para receberem a vacina no primeiro lote. ",
+                    "situacaoAtual":"União intimada para manifestar interesse no feito. ",
+                    "estrategia":"Por ser a primeira AIA proposta com tal intuito em que a União está sendo intimada a intervir, o tema será levado à Comissão Temática pra fins de uniformizar a atuação da União em tais casos. ",
+                    "resultado":null,
+                    "consideracoes":null,
+                    "TematicaId":5,
+                    "UnidadePguId":1,
+                    "ID":3,
+                    "Modified":"2021-02-10T15:27:28Z",
+                    "Created":"2021-02-10T15:24:32Z",
+                    "AuthorId":23,
+                    "EditorId":23,
+                    "OData__UIVersionString":"1.0",
+                    "Attachments":false,
+                    "GUID":"561080d4-6f36-4fac-8565-1f84b6614453"
+                },
+                {
+                    "Tematica":{
+                        "Title":"Juizados especiais federais",
+                        "Ordem":11
+                    },
+                    "UnidadePgu":{
+                        "Title":"PRU 3"
+                    },
+                    "Id":4,
+                    "Title":"PRU3",
+                    "ComplianceAssetId":null,
+                    "justica":"Extrajudicial",
+                    "processo":"00414.0914.57/2020-13",
+                    "objeto":"Trata-se de ofício nº 173 – PRESI/DIRG, de 23.12.2020, subscrito pelo Presidente do Tribunal Regional Federal da 3ª Região, Desembargador Mairan Gonçalves Maia Júnior, com pedido de análise de ajuizamento de ação de consignação de chaves pela Procuradoria Regional da União da 3ª Região.",
+                    "situacaoAtual":"Os locadores assinaram o termo de rescisão e entrega de chaves com êxito no acordo extrajudicial",
+                    "estrategia":"Negociação e acordo",
+                    "resultado":"Acordo extrajudicial concretizado",
+                    "consideracoes":"Relevante impacto administrativo",
+                    "TematicaId":10,
+                    "UnidadePguId":3,
+                    "ID":4,
+                    "Modified":"2021-02-10T15:27:37Z",
+                    "Created":"2021-02-10T15:24:32Z",
+                    "AuthorId":23,
+                    "EditorId":23,
+                    "OData__UIVersionString":"1.0",
+                    "Attachments":false,
+                    "GUID":"4e1673ba-ab22-48f3-b355-b33778745445"
+                },
+                {
+                    "Tematica":{
+                        "Title":"Servidores civis",
+                        "Ordem":6
+                    },
+                    "UnidadePgu":{
+                        "Title":"DPP"
+                    },
+                    "Id":5,
+                    "Title":"DPP/PGU",
+                    "ComplianceAssetId":null,
+                    "justica":"STJ",
+                    "processo":"AR 6657/DF",
+                    "objeto":"Cuida-se de ação rescisória ajuizada em face da União, através da qual pretende a parte autora, que teve decretada a perda do cargo público de Advogado da União (Paulo Stein Auteliano de Almeida), busca rescindir acórdão do STJ. Alega a parte existência de erro de fato em razão da desvinculação do ato ímprobo com o exercício do cargo.",
+                    "situacaoAtual":"Pautado para dia 10/02",
+                    "estrategia":null,
+                    "resultado":null,
+                    "consideracoes":null,
+                    "TematicaId":4,
+                    "UnidadePguId":10,
+                    "ID":5,
+                    "Modified":"2021-02-10T15:27:44Z",
+                    "Created":"2021-02-10T15:24:32Z",
+                    "AuthorId":23,
+                    "EditorId":23,
+                    "OData__UIVersionString":"1.0",
+                    "Attachments":false,
+                    "GUID":"d0dbd2ea-136b-425d-8bfd-0a9b7e780cca"
+                },
+                {
+                    "Tematica":{
+                        "Title":"Negociação",
+                        "Ordem":4
+                    },
+                    "UnidadePgu":{
+                        "Title":"DPP"
+                    },
+                    "Id":6,
+                    "Title":"DPP/PGU",
+                    "ComplianceAssetId":null,
+                    "justica":"STJ",
+                    "processo":"REsp 1549458/SP ",
+                    "objeto":"Agravo de Instrumento interposto por Iguatemi Empresa de Shopping Center S/A, recorrente, contra a  União e  o Ministério Público Federal, contra decisão do Juiz de 1º Grau que, em Ação incidental distribuída por dependência à Ação Civil Pública, desconsiderou a personalidade jurídica da empresa LPS -  Participações e  Empreendimentos Ltda. para o fim de atribuir a propriedade da fração ideal de 33,34% do imóvel, objeto da matrícula nº 34.236 do 2º Cartório de Imóveis de Brasília - DF, à empresa OK Óleos Vegetais Ind. e  Com. Ltda., administrada por Luiz Estevão de Oliveira Neto, visa também tornar nula a transferência de titularidade levada a efeito por essas empresas, antes consignando tratar-se de manobra para burlar o decreto de indisponibilidade dos bens prolatado nos autos da mencionada Ação Civil Pública.",
+                    "situacaoAtual":"pautado para dia 09/02",
+                    "estrategia":null,
+                    "resultado":null,
+                    "consideracoes":null,
+                    "TematicaId":7,
+                    "UnidadePguId":10,
+                    "ID":6,
+                    "Modified":"2021-02-10T15:27:57Z",
+                    "Created":"2021-02-10T15:24:32Z",
+                    "AuthorId":23,
+                    "EditorId":23,
+                    "OData__UIVersionString":"1.0",
+                    "Attachments":false,
+                    "GUID":"dbc493b3-fc39-4450-b236-a9a447865cda"
+                }
+            ]
+        } 
+    }
 }
