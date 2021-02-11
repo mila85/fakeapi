@@ -1,112 +1,71 @@
 {
     "tematicas": 
-        {
-            "d": {
-                "results":[
-                    {
-                        "Title":"Defesa da probidade",
-                        "Ordem":2
-                    },
-                    {
-                        "Title":"Patrimônio e meio ambiente",
-                        "Ordem":3
-                    },
-                    {
-                        "Title":"Recuperação de ativos",
-                        "Ordem":1
-                    },
-                    {
-                        "Title":"Servidores civis",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Militares",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Direitos trabalhistas",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Negociação",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Serviço público e residual",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Saúde pública",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Juizados especiais federais",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Internacional",
-                        "Ordem":null
-                    },
-                    {
-                        "Title":"Cálculos e Perícias",
-                        "Ordem":null
-                    }
-                ]
-            }
-        },
-   
-    "unidadesPgu":
     {
-        "d":{
-            "results":[
-                {
-                    "Title":"PRU 1"
-                },
-                {
-                    "Title":"PRU 2"
-                },
-                {
-                    "Title":"PRU 3"
-                },
-                {
-                    "Title":"PRU 4"
-                },
-                {
-                    "Title":"PRU 5"
-                },
-                {
-                    "Title":"DCP"
-                },
-                {
-                    "Title":"DCM"
-                },
-                {
-                    "Title":"DEE"
-                },
-                {
-                    "Title":"DAI"
-                },
-                {
-                    "Title":"DPP"
-                },
-                {
-                    "Title":"DSP"
-                },
-                {
-                    "Title":"DTB"
-                },
-                {
-                    "Title":"GABINETE"
-                },
-                {
-                    "Title":"CGEST"
-                },
-                {
-                    "Title":"CGJUD"
-                }
-            ]
+        "d": {
+          "results": [
+            {
+              "Title": "Defesa da probidade",
+              "Ordem": 2,
+              "Id": 1
+            },
+            {
+              "Title": "Patrimônio e meio ambiente",
+              "Ordem": 3,
+              "Id": 2
+            },
+            {
+              "Title": "Recuperação de ativos",
+              "Ordem": 1,
+              "Id": 3
+            },
+            {
+              "Title": "Servidores civis",
+              "Ordem": null,
+              "Id": 4
+            },
+            {
+              "Title": "Militares",
+              "Ordem": null,
+              "Id": 5
+            },
+            {
+              "Title": "Direitos trabalhistas",
+              "Ordem": null,
+              "Id": 6
+            },
+            {
+              "Title": "Negociação",
+              "Ordem": null,
+              "Id": 7
+            },
+            {
+              "Title": "Serviço público e residual",
+              "Ordem": null,
+              "Id": 8
+            },
+            {
+              "Title": "Saúde pública",
+              "Ordem": null,
+              "Id": 9
+            },
+            {
+              "Title": "Juizados especiais federais",
+              "Ordem": null,
+              "Id": 10
+            },
+            {
+              "Title": "Internacional",
+              "Ordem": null,
+              "Id": 11
+            },
+            {
+              "Title": "Cálculos e Perícias",
+              "Ordem": null,
+              "Id": 12
+            }
+          ]
         }
-    },
+      },
     "grupoGabinete": {
         "d":{
             "results":[
