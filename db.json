@@ -108,8 +108,14 @@
         }
     },
     "grupoGabinete": {
-        "sim": true,
-        "nao": false
+        "d":{
+            "results":[
+                {
+                    "usuarioTemPermissao": true,
+                    "usuarioNaoTemPermissao": false
+                }
+            ]
+        }
     },
     "conteudoPauta": {    
         "d":{
