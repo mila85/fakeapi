@@ -10,57 +10,57 @@
             },
             {
               "Title": "Patrimônio e meio ambiente",
-              "Ordem": 3,
+              "Ordem": 7,
               "Id": 2
             },
             {
               "Title": "Recuperação de ativos",
-              "Ordem": 1,
+              "Ordem": 3,
               "Id": 3
             },
             {
               "Title": "Servidores civis",
-              "Ordem": null,
+              "Ordem": 6,
               "Id": 4
             },
             {
               "Title": "Militares",
-              "Ordem": null,
+              "Ordem": 9,
               "Id": 5
             },
             {
               "Title": "Direitos trabalhistas",
-              "Ordem": null,
+              "Ordem": 8,
               "Id": 6
             },
             {
               "Title": "Negociação",
-              "Ordem": null,
+              "Ordem": 4,
               "Id": 7
             },
             {
               "Title": "Serviço público e residual",
-              "Ordem": null,
+              "Ordem": 10,
               "Id": 8
             },
             {
               "Title": "Saúde pública",
-              "Ordem": null,
+              "Ordem": 12,
               "Id": 9
             },
             {
               "Title": "Juizados especiais federais",
-              "Ordem": null,
+              "Ordem": 11,
               "Id": 10
             },
             {
               "Title": "Internacional",
-              "Ordem": null,
+              "Ordem": 1,
               "Id": 11
             },
             {
               "Title": "Cálculos e Perícias",
-              "Ordem": null,
+              "Ordem": 5,
               "Id": 12
             }
           ]
