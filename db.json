@@ -97,7 +97,8 @@
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":5,
-                    "UnidadePguId":2                    
+                    "UnidadePguId":2,
+                    "Concluido": null
                 },
                 {
                     "Tematica":{
@@ -117,7 +118,8 @@
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":7,
-                    "UnidadePguId":1
+                    "UnidadePguId":1,
+                    "Concluido": true
                 },
                 {
                     "Tematica":{
@@ -137,7 +139,8 @@
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":5,
-                    "UnidadePguId":1                    
+                    "UnidadePguId":1,
+                    "Concluido": null
                 },                
                 {
                     "Tematica":{
@@ -157,7 +160,8 @@
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":4,
-                    "UnidadePguId":10                    
+                    "UnidadePguId":10,
+                    "Concluido": null
                 },
                 {
                     "Tematica":{
@@ -177,7 +181,8 @@
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":7,
-                    "UnidadePguId":10                    
+                    "UnidadePguId":10,
+                    "Concluido": null
                 }
             ]
         } 
