@@ -1,82 +1,81 @@
 {
-    "tematicas": 
+    "tematicas":
     {
-        "d": {
-          "results": [
+        "d":{
+          "results":[
             {
-              "Title": "Defesa da probidade",
-              "Ordem": 2,
-              "Id": 1
+              "Title":"Defesa da probidade",
+              "Ordem":2,
+              "Id":1
             },
             {
-              "Title": "Patrimônio e meio ambiente",
-              "Ordem": 7,
-              "Id": 2
+              "Title":"Patrimônio e meio ambiente",
+              "Ordem":7,
+              "Id":2
             },
             {
-              "Title": "Recuperação de ativos",
-              "Ordem": 3,
-              "Id": 3
+              "Title":"Recuperação de ativos",
+              "Ordem":3,
+              "Id":3
             },
             {
-              "Title": "Servidores civis",
-              "Ordem": 6,
-              "Id": 4
+              "Title":"Servidores civis",
+              "Ordem":6,
+              "Id":4
             },
             {
-              "Title": "Militares",
-              "Ordem": 9,
-              "Id": 5
+              "Title":"Militares",
+              "Ordem":9,
+              "Id":5
             },
             {
-              "Title": "Direitos trabalhistas",
-              "Ordem": 8,
-              "Id": 6
+              "Title":"Direitos trabalhistas",
+              "Ordem":8,
+              "Id":6
             },
             {
-              "Title": "Negociação",
-              "Ordem": 4,
-              "Id": 7
+              "Title":"Negociação",
+              "Ordem":4,
+              "Id":7
             },
             {
-              "Title": "Serviço público e residual",
-              "Ordem": 10,
-              "Id": 8
+              "Title":"Serviço público e residual",
+              "Ordem":10,
+              "Id":8
             },
             {
-              "Title": "Saúde pública",
-              "Ordem": 12,
-              "Id": 9
+              "Title":"Saúde pública",
+              "Ordem":12,
+              "Id":9
             },
             {
-              "Title": "Juizados especiais federais",
-              "Ordem": 11,
-              "Id": 10
+              "Title":"Juizados especiais federais",
+              "Ordem":11,
+              "Id":10
             },
             {
-              "Title": "Internacional",
-              "Ordem": 1,
-              "Id": 11
+              "Title":"Internacional",
+              "Ordem":1,
+              "Id":11
             },
             {
-              "Title": "Cálculos e Perícias",
-              "Ordem": 5,
-              "Id": 12
+              "Title":"Cálculos e Perícias",
+              "Ordem":5,
+              "Id":12
             }
           ]
         }
       },
-    "grupoGabinete": {
+    "grupoGabinete":{
         "d":{
             "results":[
                 {
-                    "usuarioTemPermissao": true,
-                    "usuarioNaoTemPermissao": false
+                    "usuarioTemPermissao":true
                 }
             ]
         }
     },
-    "conteudoPauta": {    
+    "conteudoPauta":{    
         "d":{
             "results":[
                 {
@@ -94,11 +93,11 @@
                     "objeto":"ACP ajuizada pela UNIÃO requerendo a condenação da ré em a ressarcir o erário pelo montante fixado por este egrégio Juízo correspondente ao volume de granito irregularmente extraído, acrescido de juros e correção monetária",
                     "situacaoAtual":"Sentença IMPROCEDENTE. Apelação da UNIÃO incluída na pauta de julgamento do dia 10/02/2021",
                     "estrategia":"Memoriais",
-                    "resultado":null,
+                    "resultado":"Acordo extrajudicial concretizado",
                     "consideracoes":null,
                     "TematicaId":5,
                     "UnidadePguId":2,
-                    "Concluido": null
+                    "Concluido":null
                 },
                 {
                     "Tematica":{
@@ -115,11 +114,11 @@
                     "objeto":"AIA vinculada à Operação Greenfield, e que aborda a aquisição de ações da ITAUSA pela PETROS com favorecimento da Camargo Correa.  ",
                     "situacaoAtual":"Intimação da União, PETROS  e Petrobras para manifestarem interesse no feito",
                     "estrategia":"Processo identificado como relevante. Será dada ciência do caso à PGU para verificar se se seguirá o modo de atuação já utilizado nos demais feitos relativos à FT Greenfield",
-                    "resultado":null,
-                    "consideracoes":null,
+                    "resultado":"Acordo extrajudicial concretizado",
+                    "consideracoes":"Relevante impacto administrativo",
                     "TematicaId":7,
                     "UnidadePguId":1,
-                    "Concluido": false
+                    "Concluido":false
                 },
                 {
                     "Tematica":{
@@ -140,7 +139,7 @@
                     "consideracoes":null,
                     "TematicaId":5,
                     "UnidadePguId":1,
-                    "Concluido": null
+                    "Concluido":null
                 },                
                 {
                     "Tematica":{
@@ -161,7 +160,7 @@
                     "consideracoes":null,
                     "TematicaId":4,
                     "UnidadePguId":10,
-                    "Concluido": null
+                    "Concluido":null
                 },
                 {
                     "Tematica":{
@@ -177,12 +176,12 @@
                     "processo":"REsp 1549458/SP ",
                     "objeto":"Agravo de Instrumento interposto por Iguatemi Empresa de Shopping Center S/A, recorrente, contra a  União e  o Ministério Público Federal, contra decisão do Juiz de 1º Grau que, em Ação incidental distribuída por dependência à Ação Civil Pública, desconsiderou a personalidade jurídica da empresa LPS -  Participações e  Empreendimentos Ltda. para o fim de atribuir a propriedade da fração ideal de 33,34% do imóvel, objeto da matrícula nº 34.236 do 2º Cartório de Imóveis de Brasília - DF",
                     "situacaoAtual":"pautado para dia 09/02",
-                    "estrategia":null,
-                    "resultado":null,
-                    "consideracoes":null,
+                    "estrategia":"Negociação e acordo",
+                    "resultado":"Acordo extrajudicial concretizado",
+                    "consideracoes":"Relevante impacto administrativo",
                     "TematicaId":7,
                     "UnidadePguId":10,
-                    "Concluido": null
+                    "Concluido":null
                 }
             ]
         } 
