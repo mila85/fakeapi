@@ -147,15 +147,15 @@
                         "Ordem":6
                     },
                     "UnidadePgu":{
-                        "Title":"DPP"
+                        "Title":"DEE"
                     },
                     "Id":5,
-                    "Title":"DPP/PGU",                    
+                    "Title":"DEE",                    
                     "justica":"STJ",
                     "processo":"AR 6657/DF",
-                    "objeto":"Cuida-se de ação rescisória ajuizada em face da União, através da qual pretende a parte autora, que teve decretada a perda do cargo público de Advogado da União, busca rescindir acórdão do STJ. Alega a parte existência de erro de fato em razão da desvinculação do ato ímprobo com o exercício do cargo.",
-                    "situacaoAtual":"Pautado para dia 10/02",
-                    "estrategia":null,
+                    "objeto":"Orientação sobre decisão da Corte Especial do STJ sobre cabimento de Agravo de Instrumento – Taxatividade Mitigada",
+                    "situacaoAtual":"Elaboração de Parecer Referencial. Envio ao GAB/PGU",
+                    "estrategia":"a) orientar os Advogados da União a interpor o agravo de instrumento de decisões interlocutórias sempre que vislumbrada urgência na apreciação da questão, seja porque seu julgamento diferido é logicamente inviável sob o prisma da utilidade, seja porque a postergação da análise implicará o refazimento de uma parcela significativa de atos processuais. Deverá ser demonstrado no arrazoado recursal, caso a caso, de forma explícita, a urgência na apreciação da questão;b) autorizar os Advogados da União a não recorrer e a desistir dos recursos interpostos contra decisões que reconheçam o cabimento do agravo de instrumento interposto pela parte contrária quando caracterizada a urgência decorrente da inutilidade do julgamento da questão em sede de apelação. A autorização restringe-se ao cabimento do agravo de instrumento, não afetando a discussão quanto ao mérito do recurso, devendo-se atentar também para o que estabelece o art. 13 da Portaria AGU nº 487/2016.",
                     "resultado":null,
                     "consideracoes":null,
                     "TematicaId":4,
