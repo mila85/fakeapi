@@ -75,6 +75,13 @@
             ]
         }
     },
+    "pauta":[
+      {
+        "Id":1,
+        "Title":"PRU2",
+        "Concluido":null
+      }
+    ],
     "conteudoPauta":{    
         "d":{
             "results":[
