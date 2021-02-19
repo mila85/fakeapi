@@ -84,7 +84,8 @@
                         "Ordem":9
                     },
                     "UnidadePgu":{
-                        "Title":"PRU 2"
+                        "Title":"PRU 2",
+                        "Ordem":2
                     },
                     "Id":1,
                     "Title":"PRU2",                    
@@ -105,7 +106,8 @@
                         "Ordem":4
                     },
                     "UnidadePgu":{
-                        "Title":"PRU 1"
+                        "Title":"PRU 1",
+                        "Ordem":1
                     },
                     "Id":2,
                     "Title":"PRU1",                    
@@ -126,7 +128,8 @@
                         "Ordem":9
                     },
                     "UnidadePgu":{
-                        "Title":"PRU 1"
+                        "Title":"PRU 1",
+                        "Ordem":1
                     },
                     "Id":3,
                     "Title":"PRU1",                    
@@ -147,7 +150,8 @@
                         "Ordem":6
                     },
                     "UnidadePgu":{
-                        "Title":"DEE"
+                        "Title":"DEE",
+                        "Ordem":8
                     },
                     "Id":5,
                     "Title":"DEE",                    
@@ -168,7 +172,8 @@
                         "Ordem":4
                     },
                     "UnidadePgu":{
-                        "Title":"DPP"
+                        "Title":"DPP",
+                        "Ordem":10
                     },
                     "Id":6,
                     "Title":"DPP/PGU",                    
