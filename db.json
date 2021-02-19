@@ -77,7 +77,7 @@
     },
     "pauta":[
       {
-        "Id":1,
+        "id":1,
         "Title":"PRU2",
         "Concluido":null
       }
