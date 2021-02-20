@@ -66,6 +66,16 @@
           ]
         }
       },
+      "emailsRemetentes":{
+        "d":{
+          "results":[
+              {
+                  "Title":"Camila Portella",
+                  "Email":"camila.portella@agu.gov.br"
+              }
+          ]
+        }
+      },
     "grupoGabinete":{
         "d":{
             "results":[
