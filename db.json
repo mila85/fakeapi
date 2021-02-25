@@ -1,71 +1,4 @@
-{
-    "tematicas":
-    {
-        "d":{
-          "results":[
-            {
-              "Title":"Defesa da probidade",
-              "Ordem":2,
-              "Id":1
-            },
-            {
-              "Title":"Patrimônio e meio ambiente",
-              "Ordem":7,
-              "Id":2
-            },
-            {
-              "Title":"Recuperação de ativos",
-              "Ordem":3,
-              "Id":3
-            },
-            {
-              "Title":"Servidores civis",
-              "Ordem":6,
-              "Id":4
-            },
-            {
-              "Title":"Militares",
-              "Ordem":9,
-              "Id":5
-            },
-            {
-              "Title":"Direitos trabalhistas",
-              "Ordem":8,
-              "Id":6
-            },
-            {
-              "Title":"Negociação",
-              "Ordem":4,
-              "Id":7
-            },
-            {
-              "Title":"Serviço público e residual",
-              "Ordem":10,
-              "Id":8
-            },
-            {
-              "Title":"Saúde pública",
-              "Ordem":12,
-              "Id":9
-            },
-            {
-              "Title":"Juizados especiais federais",
-              "Ordem":11,
-              "Id":10
-            },
-            {
-              "Title":"Internacional",
-              "Ordem":1,
-              "Id":11
-            },
-            {
-              "Title":"Cálculos e Perícias",
-              "Ordem":5,
-              "Id":12
-            }
-          ]
-        }
-      },
+{    
       "emailsRemetentes":{
         "d":{
           "results":[
@@ -123,7 +56,8 @@
                     "Consideracoes":null,
                     "TematicaId":5,
                     "UnidadePguId":2,
-                    "Concluido":null
+                    "Concluido":null,
+                    "FileSystemObjectType":0
                 },
                 {
                     "Tematica":{
@@ -144,7 +78,8 @@
                     "Consideracoes":"Relevante impacto administrativo",
                     "TematicaId":7,
                     "UnidadePguId":1,
-                    "Concluido":false
+                    "Concluido":false,
+                    "FileSystemObjectType":0
                 },
                 {
                     "Tematica":{
@@ -165,7 +100,8 @@
                     "Consideracoes":null,
                     "TematicaId":5,
                     "UnidadePguId":1,
-                    "Concluido":null
+                    "Concluido":null,
+                    "FileSystemObjectType":0
                 },                
                 {
                     "Tematica":{
@@ -186,7 +122,8 @@
                     "Consideracoes":null,
                     "TematicaId":4,
                     "UnidadePguId":8,
-                    "Concluido":null
+                    "Concluido":null,
+                    "FileSystemObjectType":0
                 },
                 {
                     "Tematica":{
@@ -207,7 +144,8 @@
                     "Consideracoes":"Relevante impacto administrativo",
                     "TematicaId":7,
                     "UnidadePguId":10,
-                    "Concluido":null
+                    "Concluido":null,
+                    "FileSystemObjectType":0
                 }
             ]
         } 
