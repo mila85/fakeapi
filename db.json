@@ -1,4 +1,25 @@
 {    
+      "nomePastas":{
+        "d":{
+          "results":[
+              {
+                "Name":"Arquivo"
+              },
+              {
+                "Name":"PGU"
+              },
+              {
+                "Name":"PRU 1"
+              },
+              {
+                "Name":"PRU 2"
+              },
+              {
+                "Name":"PRU 3"
+              }              
+          ]
+        }
+      },
       "emailsRemetentes":{
         "d":{
           "results":[
