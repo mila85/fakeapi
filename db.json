@@ -3,19 +3,24 @@
         "d":{
           "results":[
               {
-                "Name":"Arquivo"
+                "Name":"Arquivo",
+                "OrdemPasta":0
               },
               {
-                "Name":"PGU"
+                "Name":"PGU",
+                "OrdemPasta":1
               },
               {
-                "Name":"PRU 1"
+                "Name":"PRU 1",
+                "OrdemPasta":2
               },
               {
-                "Name":"PRU 2"
+                "Name":"PRU 2",
+                "OrdemPasta":3
               },
               {
-                "Name":"PRU 3"
+                "Name":"PRU 3",
+                "OrdemPasta":4
               }              
           ]
         }
