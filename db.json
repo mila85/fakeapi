@@ -31,12 +31,14 @@
               {
                 "Id":1,
                 "Title":"Camila Portella",
-                "Email":"camila.portella@agu.gov.br"
+                "Email":"camila.portella@agu.gov.br",
+                "Unidade":"PGU"
               },
               {
                 "Id":2,
                 "Title":"Fulano de Tal",
-                "Email":"milamosqueira@gmail.com"
+                "Email":"milamosqueira@gmail.com",
+                "Unidade":"PRU 1"
               }
           ]
         }
