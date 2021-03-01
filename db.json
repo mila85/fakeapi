@@ -7,10 +7,6 @@
                 "OrdemPasta":0
               },
               {
-                "Name":"PGU",
-                "OrdemPasta":1
-              },
-              {
                 "Name":"PRU 1",
                 "OrdemPasta":2
               },
@@ -21,7 +17,11 @@
               {
                 "Name":"PRU 3",
                 "OrdemPasta":4
-              }              
+              },              
+              {
+                "Name":"PGU",
+                "OrdemPasta":1
+              }
           ]
         }
       },
@@ -41,24 +41,12 @@
           ]
         }
       },
-    "grupoGabinete":{
-        "d":{
-            "results":[
-                {
-                    "usuarioTemPermissao":true
-                }
-            ]
-        }
-    },
     "pauta":[
       {
         "id":1,
-        "Concluido":null
-      },
-      {
-        "id":3,
-        "Concluido":null
-      }
+        "Concluido":null,
+        "EnviarParaPgu":null
+      }      
     ],
     "conteudoPauta":{    
         "d":{
@@ -83,7 +71,8 @@
                     "TematicaId":5,
                     "UnidadePguId":2,
                     "Concluido":null,
-                    "FileSystemObjectType":0
+                    "FileSystemObjectType":0,
+                    "EnviarParaPgu":null
                 },
                 {
                     "Tematica":{
@@ -105,7 +94,8 @@
                     "TematicaId":7,
                     "UnidadePguId":1,
                     "Concluido":false,
-                    "FileSystemObjectType":0
+                    "FileSystemObjectType":0,
+                    "EnviarParaPgu":null
                 },
                 {
                     "Tematica":{
@@ -127,7 +117,8 @@
                     "TematicaId":5,
                     "UnidadePguId":1,
                     "Concluido":null,
-                    "FileSystemObjectType":0
+                    "FileSystemObjectType":0,
+                    "EnviarParaPgu":null
                 },                
                 {
                     "Tematica":{
@@ -149,7 +140,8 @@
                     "TematicaId":4,
                     "UnidadePguId":8,
                     "Concluido":null,
-                    "FileSystemObjectType":0
+                    "FileSystemObjectType":0,
+                    "EnviarParaPgu":null
                 },
                 {
                     "Tematica":{
@@ -171,7 +163,8 @@
                     "TematicaId":7,
                     "UnidadePguId":10,
                     "Concluido":null,
-                    "FileSystemObjectType":0
+                    "FileSystemObjectType":0,
+                    "EnviarParaPgu":null
                 }
             ]
         } 
