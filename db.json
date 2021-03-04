@@ -62,6 +62,9 @@
                         "Title":"PRU 2",
                         "Ordem":2
                     },
+                    "Author":{
+                      "Title": "Camila Souza Mosqueira Portella"
+                    },
                     "Id":1,                 
                     "Justica":"TRF 5ª TURMA",
                     "Title":"0003162-57.2016.4.02.5100",
@@ -74,7 +77,8 @@
                     "UnidadePguId":2,
                     "Concluido":null,
                     "FileSystemObjectType":0,
-                    "EnviarParaPgu":null
+                    "EnviarParaPgu":null,
+                    "Created": "2021-02-26T02:22:18Z"                    
                 },
                 {
                     "Tematica":{
@@ -84,6 +88,9 @@
                     "UnidadePgu":{
                         "Title":"PRU 1",
                         "Ordem":1
+                    },
+                    "Author":{
+                      "Title": "Camila Souza Mosqueira Portella"
                     },
                     "Id":2,                   
                     "Justica":"22ª VF/DF ",
@@ -97,7 +104,8 @@
                     "UnidadePguId":1,
                     "Concluido":false,
                     "FileSystemObjectType":0,
-                    "EnviarParaPgu":null
+                    "EnviarParaPgu":null,
+                    "Created": "2021-02-26T02:22:18Z"
                 },
                 {
                     "Tematica":{
@@ -107,6 +115,9 @@
                     "UnidadePgu":{
                         "Title":"PRU 1",
                         "Ordem":1
+                    },
+                    "Author":{
+                      "Title": "Camila Souza Mosqueira Portella"
                     },
                     "Id":3,                 
                     "Justica":"2ª VF/AP ",
@@ -120,7 +131,8 @@
                     "UnidadePguId":1,
                     "Concluido":null,
                     "FileSystemObjectType":0,
-                    "EnviarParaPgu":null
+                    "EnviarParaPgu":null,
+                    "Created": "2021-02-26T02:22:18Z"
                 },                
                 {
                     "Tematica":{
@@ -130,6 +142,9 @@
                     "UnidadePgu":{
                         "Title":"DEE",
                         "Ordem":8
+                    },
+                    "Author":{
+                      "Title": "Camila Souza Mosqueira Portella"
                     },
                     "Id":5,                   
                     "Justica":"STJ",
@@ -143,7 +158,8 @@
                     "UnidadePguId":8,
                     "Concluido":null,
                     "FileSystemObjectType":0,
-                    "EnviarParaPgu":null
+                    "EnviarParaPgu":null,
+                    "Created": "2021-02-26T14:03:39Z"
                 },
                 {
                     "Tematica":{
@@ -153,6 +169,9 @@
                     "UnidadePgu":{
                         "Title":"DPP",
                         "Ordem":10
+                    },
+                    "Author":{
+                      "Title": "Camila Souza Mosqueira Portella"
                     },
                     "Id":6,                
                     "Justica":"STJ",
@@ -166,7 +185,8 @@
                     "UnidadePguId":10,
                     "Concluido":null,
                     "FileSystemObjectType":0,
-                    "EnviarParaPgu":null
+                    "EnviarParaPgu":null,
+                    "Created": "2021-02-26T14:03:40Z"
                 }
             ]
         } 
